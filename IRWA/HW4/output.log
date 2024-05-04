@@ -1,0 +1,165 @@
+DEBUG:visited:http://www.cs.jhu.edu/~yarowsky/cs466.html
+DEBUG:visited:http://www.cs.jhu.edu/~yarowsky/cs466.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/cs466slides/
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/
+DEBUG:extracted:('https://www.cs.jhu.edu/~yarowsky/', 'PHONE', '(410) 516-5372')
+DEBUG:extracted:('https://www.cs.jhu.edu/~yarowsky/', 'EMAIL', 'yarowsky@jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu/~yarowsky/', 'ADDRESS', ' Baltimore, MD 21218')
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/466.officehours.html
+DEBUG:extracted:('https://www.cs.jhu.edu/~yarowsky/466.officehours.html', 'EMAIL', 'arya@jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu/~yarowsky/466.officehours.html', 'EMAIL', 'czhan105@jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu/~yarowsky/466.officehours.html', 'EMAIL', 'smei5@jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu/~yarowsky/601.466.hw4.zip
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.l0.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw1.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw1.zip
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw2.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw2.zip
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw3.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw3.zip
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.hw4.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.pr.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/601.466.on.exam.txt
+DEBUG:visited:https://www.cs.jhu.edu/~yarowsky/Gonzalez-vs-Google-case.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://www.w3.org/pub/WWW/Protocols/
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'ietf-http-wg@w3.org')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'w3c-http@w3.org')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'www-talk@w3.org')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'www-speed@tipper.oit.unc.edu')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'ietf-medfree@imc.org')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'http-wg@cuckoo.hpl.hp.com')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'w3c-dist-auth@w3.org')
+DEBUG:extracted:('https://www.w3.org/pub/WWW/Protocols/', 'EMAIL', 'www-security@nsmx.rutgers.edu')
+DEBUG:visited:https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+DEBUG:extracted:('https://nlp.stanford.edu/IR-book/information-retrieval-book.html', 'PHONE', '7805218657')
+DEBUG:visited:https://piazza.com/jhu/spring2024/601466666
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '6014564966')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '6014564966')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '6004496006')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '6014456014')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '6014564966')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1120')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1120')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1121')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1121')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1123')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1123')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1126')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'PHONE', '645.761.1126')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'EMAIL', 'sgruber8139@gmail.com')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'EMAIL', 'team@piazza.com')
+DEBUG:extracted:('https://piazza.com/jhu/spring2024/601466666', 'EMAIL', 'team@piazza.com')
+DEBUG:visited:https://www.oreilly.com/openbook/webclient/
+DEBUG:extracted:('https://www.oreilly.com/openbook/webclient/', 'EMAIL', 'webmaster@oreilly.com')
+DEBUG:extracted:('https://www.oreilly.com/openbook/webclient/', 'EMAIL', 'webmaster@oreilly.com')
+DEBUG:visited:https://prdownloads.sourceforge.net/weka/weka.ppt
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:https://nlp.stanford.edu/IR-book/information-retrieval.html
+DEBUG:extracted:('https://nlp.stanford.edu/IR-book/information-retrieval.html', 'PHONE', '7805960057')
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/xml-retrieval-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/boolean-retrieval-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-in-information-retrieval-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/probabilistic-information-retrieval-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/language-models-for-information-retrieval-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/errata.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/flat.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/dictionaries-and-tolerant-retrieval-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/ir.bib
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '1277741.1277')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '383952.3839')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '215206.2153')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '956863.9569')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '1277741.1277')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '1277741.1277')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '967900.9680')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '502512.5025')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '1273221.1273')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '263479.2634')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '258525.2585')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '7612920971')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '984321.9843')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '1228268.1228')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '2294961303')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '345508.3455')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '584792.5848')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '258533.2586')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '238386.2384')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '4773633402')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '506309.5063')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '312624.3126')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '371920.3720')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '860435.8604')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '348751.3487')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '564376.5644')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '511446.5115')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '215206.2153')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '584792.5848')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '288627.2886')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '363958.3639')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '511446.5114')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '383952.3839')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '355214.3552')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '956750.9568')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '253495.2535')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '602259.6022')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '321796.3218')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '564376.5643')
+DEBUG:extracted:('http://nlp.stanford.edu/IR-book/pdf/ir.bib', 'PHONE', '312624.3126')
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/flat-clustering-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/link-analysis-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/08eval.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/index-compression-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/web-search-basics-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/00front.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/index-construction-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/12lmodel.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/01bool.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/11prob.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/17hier.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/21link.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/html/htmledition/hierarchical-clustering-1.html
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/04const.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/20crawl.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/02voc.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/10xml.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/19web.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/03dict.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/05comp.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/06vect.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/14vcat.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+DEBUG:visited:http://nlp.stanford.edu/IR-book/pdf/16flat.pdf
+WARNING:bs4.dammit:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
