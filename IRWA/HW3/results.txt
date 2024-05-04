@@ -1,0 +1,26 @@
+Run	Stemming	Position Weighting	Local Collocation Model	Similarity	Tank	Plant	Perplace	Smsspam
+1	False	uniform_weights	bag-of-words	cosine_sim	0.825	0.9225	0.6525	0.7599
+2	True	expndecay_weights	bag-of-words	cosine_sim	0.86	0.875	0.7675	0.681
+3	False	expndecay_weights	bag-of-words	cosine_sim	0.8775	0.895	0.78	0.7599
+4	False	expndecay_weights	adj-sep-LR	cosine_sim	0.815	0.8625	0.7225	0.7581
+5	False	stepped_weights	bag-of-words	cosine_sim	0.8775	0.915	0.765	0.7599
+6	False	logdecay_weights	bag-of-words	cosine_sim	0.87	0.9225	0.7225	0.7599
+7	False	uniform_weights	bag-of-words	jaccard_sim	0.675	0.905	0.6325	0.4158
+8	True	expndecay_weights	bag-of-words	jaccard_sim	0.8075	0.885	0.745	0.3817
+9	False	expndecay_weights	bag-of-words	dice_sim	0.8125	0.8875	0.7725	0.4158
+10	False	expndecay_weights	adj-sep-LR	dice_sim	0.7575	0.8375	0.7225	0.4498
+11	False	stepped_weights	bag-of-words	overlap_sim	0.895	0.915	0.7625	0.9516
+12	False	logdecay_weights	bag-of-words	overlap_sim	0.915	0.9275	0.7225	0.9516
+
+For part 2, I used an inverse logarithmic weighting scheme based off the exponential scheme. I noticed 
+that the graph of this weighting scheme also produced more gradually decreasing but still nonnegative weights 
+as distance increased from the target word. 
+
+Across the board, targeted tasks achieved higher accuracies than non-targeted tasks, although word sense
+disambiguation did noticeably better than named entity classification. No stemming and bag of words performed
+best.  In descending order, logarithmic, stepped, exponential, and uniform weighting were best. In similar order,  
+overlap, cosine, jaccard, and dice similarity performed well. 
+
+Vector models perform worse on non-targeted tasks compared to targeted tasks due to overfitting the specific semantic context
+("mistaking the trees for the forest"). Spam can encompass a variety of topics including insurance deals, shady job offers, etc. 
+While a human knows that the specific context like what insurance is being offered is irrelevant, a vector model may fixate on it.
