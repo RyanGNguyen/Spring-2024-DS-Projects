@@ -1,0 +1,500 @@
+STEMMING: False
+Comparison Doc: 239
+
+Doc ID: 1032
+Cosine Score: 0.37386298928751144
+Title: ['theoretical', 'considerations', 'information', 'retrieval', 'systems']
+
+Doc ID: 2965
+Cosine Score: 0.17953881750275963
+Title: ['optimal', 'evaluation', 'boolean', 'expressions', 'online', 'query', 'system']
+
+Doc ID: 2160
+Cosine Score: 0.16454798978723406
+Title: ['canonical', 'structure', 'attribute', 'based', 'organization']
+
+Doc ID: 3168
+Cosine Score: 0.15999625799969863
+Title: ['comment', '``', 'optimal', 'evaluation', 'boolean', 'expressions', 'online', 'query', 'system', '.', "''"]
+
+Doc ID: 3169
+Cosine Score: 0.15405253462192448
+Title: ['note', '``', 'optimal', 'evaluation', 'boolean', 'expressions', 'online', 'query', 'system', '.', "''"]
+
+Doc ID: 1207
+Cosine Score: 0.1538239635670892
+Title: ['remarks', 'simulation', 'boolean', 'functions']
+
+Doc ID: 1329
+Cosine Score: 0.15268554728783293
+Title: ['simulation', 'boolean', 'functions', 'decimal', 'computer']
+
+Doc ID: 3134
+Cosine Score: 0.13704698422973047
+Title: ['normal', 'multiplication', 'tables', 'information', 'storage', 'retrieval']
+
+Doc ID: 651
+Cosine Score: 0.13633064340987086
+Title: ['survey', 'languages', 'systems', 'information', 'retrieval']
+
+Doc ID: 1457
+Cosine Score: 0.12453291400358182
+Title: ['data', 'manipulation', 'programming', 'problems', 'automatic', 'information', 'retrieval']
+
+Doc ID: 1699
+Cosine Score: 0.12238105763853378
+Title: ['experimental', 'evaluation', 'information', 'retrieval', 'teletypewriter']
+
+Doc ID: 891
+Cosine Score: 0.12015607680781261
+Title: ['everyman', "'s", 'information', 'retrieval', 'system']
+
+Doc ID: 2340
+Cosine Score: 0.11615412858490369
+Title: ['boolean', 'matrix', 'method', 'computation', 'linear', 'precedence', 'functions']
+
+Doc ID: 2278
+Cosine Score: 0.10871141903290885
+Title: ['foster', "'s", 'information', 'storage', 'retrieval', 'avl', 'trees']
+
+Doc ID: 2824
+Cosine Score: 0.10462355243472742
+Title: ['improvement', 'martin', "'s", 'algorithm', 'computation', 'linear', 'precedence', 'functions']
+
+Doc ID: 2882
+Cosine Score: 0.10233648853045299
+Title: ['stochastic', 'evaluation', 'model', 'database', 'organization', 'data', 'retrieval', 'systems']
+
+Doc ID: 2288
+Cosine Score: 0.10216553426887615
+Title: ['organization', ':', 'consecutive', 'retrieval', 'property']
+
+Doc ID: 635
+Cosine Score: 0.10125195613139754
+Title: ['note', 'multiplying', 'boolean', 'matrices']
+
+Doc ID: 678
+Cosine Score: 0.10054337399278157
+Title: ['optimizing', 'bit-time', 'computer', 'simulation']
+
+Doc ID: 634
+Cosine Score: 0.10040306204035376
+Title: ['manipulation', 'trees', 'information', 'retrieval', '*']
+
+
+Comparison Doc: 1236
+
+Doc ID: 2307
+Cosine Score: 0.2594987941035676
+Title: ['dynamic', 'document', 'processing']
+
+Doc ID: 1699
+Cosine Score: 0.222834548784372
+Title: ['experimental', 'evaluation', 'information', 'retrieval', 'teletypewriter']
+
+Doc ID: 2711
+Cosine Score: 0.2146402551966157
+Title: ['vector', 'space', 'model', 'automatic', 'indexing']
+
+Doc ID: 1457
+Cosine Score: 0.18022143571984475
+Title: ['data', 'manipulation', 'programming', 'problems', 'automatic', 'information', 'retrieval']
+
+Doc ID: 2575
+Cosine Score: 0.1748683693751223
+Title: ['best-match', 'problem', 'document', 'retrieval']
+
+Doc ID: 634
+Cosine Score: 0.17273975684122767
+Title: ['manipulation', 'trees', 'information', 'retrieval', '*']
+
+Doc ID: 1935
+Cosine Score: 0.1622442078111148
+Title: ['randomized', 'binary', 'search', 'technique']
+
+Doc ID: 1681
+Cosine Score: 0.16005602089204637
+Title: ['easy', 'english', ',', 'language', 'information', 'retrieval', 'remote', 'typewriter', 'console']
+
+Doc ID: 2990
+Cosine Score: 0.14561554625761425
+Title: ['effective', 'information', 'retrieval', 'term', 'accuracy']
+
+Doc ID: 1814
+Cosine Score: 0.1404881774951951
+Title: ['direct', 'search', '(', 'algorithm', '178', '[', 'e4', ']', ')']
+
+Doc ID: 1271
+Cosine Score: 0.13993238728983373
+Title: ['secondary', 'key', 'retrieval', 'ibm', '7090-1301', 'system']
+
+Doc ID: 1937
+Cosine Score: 0.12979887601113826
+Title: ['codas', ':', 'data', 'display', 'system']
+
+Doc ID: 2561
+Cosine Score: 0.12974149700606033
+Title: ['heuristic', 'approach', 'inductive', 'inference', 'fact', 'retrieval', 'systems']
+
+Doc ID: 1715
+Cosine Score: 0.1283912295304959
+Title: ['direct', 'search', '(', 'algorithm', '178', '[', 'e4', ']', ')']
+
+Doc ID: 1815
+Cosine Score: 0.12579422514997196
+Title: ['direct', 'search', '(', 'algorithm', '178', '[', 'e4', ']', ')']
+
+Doc ID: 891
+Cosine Score: 0.12534237590423375
+Title: ['everyman', "'s", 'information', 'retrieval', 'system']
+
+Doc ID: 2278
+Cosine Score: 0.12339683130877868
+Title: ['foster', "'s", 'information', 'storage', 'retrieval', 'avl', 'trees']
+
+Doc ID: 1601
+Cosine Score: 0.12265690158071733
+Title: ['parallel', 'numerical', 'methods', 'solution', 'equations']
+
+Doc ID: 2379
+Cosine Score: 0.1223969538834046
+Title: ['design', 'venus', 'operating', 'system']
+
+Doc ID: 2288
+Cosine Score: 0.12178453335995446
+Title: ['organization', ':', 'consecutive', 'retrieval', 'property']
+
+
+Comparison Doc: 2740
+
+Doc ID: 1749
+Cosine Score: 0.343859244374533
+Title: ['structure', '``', "''", '-multiprogramming', 'system']
+
+Doc ID: 2379
+Cosine Score: 0.25922351660985016
+Title: ['design', 'venus', 'operating', 'system']
+
+Doc ID: 3043
+Cosine Score: 0.2312843596008599
+Title: ['distributed', 'processes', ':', 'concurrent', 'programming', 'concept']
+
+Doc ID: 2597
+Cosine Score: 0.2227186811041671
+Title: ['monitors', ':', 'operating', 'system', 'structuring', 'concept']
+
+Doc ID: 2080
+Cosine Score: 0.21421573287813817
+Title: ['nucleus', 'multiprogramming', 'system']
+
+Doc ID: 2920
+Cosine Score: 0.21277784739799735
+Title: ['game', 'interpretation', 'deadlock', 'avoidance', 'problem']
+
+Doc ID: 2342
+Cosine Score: 0.19004010286155648
+Title: ['interference', 'communicating', 'parallel', 'processes']
+
+Doc ID: 2796
+Cosine Score: 0.1815085199176898
+Title: ['monitors', ':', 'operating', 'system', 'structuring', 'concept', '(', 'corrigendum', ')']
+
+Doc ID: 2280
+Cosine Score: 0.18097967630120942
+Title: ['comment', 'deadlock', 'prevention', 'method']
+
+Doc ID: 2319
+Cosine Score: 0.17422963080062073
+Title: ['operating', 'system', 'performance']
+
+Doc ID: 2378
+Cosine Score: 0.1668356556430533
+Title: ['operating', 'system', 'based', 'concept', 'supervisory', 'computer']
+
+Doc ID: 2320
+Cosine Score: 0.16163475036366146
+Title: ['structured', 'multiprogramming']
+
+Doc ID: 2228
+Cosine Score: 0.16047564680519405
+Title: ['comments', 'prevention', 'system', 'deadlocks']
+
+Doc ID: 2500
+Cosine Score: 0.157803955157093
+Title: ['practical', 'approach', 'managing', 'resources', 'avoiding', 'deadlocks']
+
+Doc ID: 2629
+Cosine Score: 0.14936342549833603
+Title: ['time-sharing', 'system']
+
+Doc ID: 2482
+Cosine Score: 0.14138258901854883
+Title: ['mixed', 'solutions', 'deadlock', 'problem']
+
+Doc ID: 3073
+Cosine Score: 0.14017341810158604
+Title: ['communicating', 'sequential', 'processes']
+
+Doc ID: 2541
+Cosine Score: 0.13630821906700366
+Title: ['overview', 'ispl', 'computer', 'system', 'design']
+
+Doc ID: 2700
+Cosine Score: 0.1359739440956283
+Title: ['reduction', ':', 'method', 'proving', 'properties', 'parallel', 'programs']
+
+Doc ID: 1723
+Cosine Score: 0.13344658413025476
+Title: ['computer', 'construction', 'project', 'networks']
+
+
+STEMMING: True
+Comparison Doc: 239
+
+Doc ID: 1032
+Cosine Score: 0.4288200083992763
+Title: ['theoret', 'consider', 'inform', 'retriev', 'system']
+
+Doc ID: 2965
+Cosine Score: 0.19643827970098543
+Title: ['optim', 'evalu', 'boolean', 'express', 'onlin', 'queri', 'system']
+
+Doc ID: 2160
+Cosine Score: 0.17876840563756458
+Title: ['canon', 'structur', 'attribut', 'base', 'organ']
+
+Doc ID: 3168
+Cosine Score: 0.17585293092803417
+Title: ['comment', '``', 'optim', 'evalu', 'boolean', 'express', 'onlin', 'queri', 'system', '.', "''"]
+
+Doc ID: 3169
+Cosine Score: 0.17145771756879924
+Title: ['note', '``', 'optim', 'evalu', 'boolean', 'express', 'onlin', 'queri', 'system', '.', "''"]
+
+Doc ID: 3134
+Cosine Score: 0.1463455445888064
+Title: ['normal', 'multipl', 'tabl', 'inform', 'storag', 'retriev']
+
+Doc ID: 1329
+Cosine Score: 0.1430585414753107
+Title: ['simul', 'boolean', 'function', 'decim', 'comput']
+
+Doc ID: 1207
+Cosine Score: 0.14296555401961186
+Title: ['remark', 'simul', 'boolean', 'function']
+
+Doc ID: 891
+Cosine Score: 0.1332956172491782
+Title: ['everyman', "'s", 'inform', 'retriev', 'system']
+
+Doc ID: 1457
+Cosine Score: 0.13086563922565142
+Title: ['data', 'manipul', 'program', 'problem', 'automat', 'inform', 'retriev']
+
+Doc ID: 651
+Cosine Score: 0.1291170706202909
+Title: ['survey', 'languag', 'system', 'inform', 'retriev']
+
+Doc ID: 1699
+Cosine Score: 0.12871862626640526
+Title: ['experiment', 'evalu', 'inform', 'retriev', 'teletypewrit']
+
+Doc ID: 2278
+Cosine Score: 0.11633594364980772
+Title: ['foster', "'s", 'inform', 'storag', 'retriev', 'avl', 'tree']
+
+Doc ID: 2288
+Cosine Score: 0.11536029986593113
+Title: ['organ', ':', 'consecut', 'retriev', 'properti']
+
+Doc ID: 635
+Cosine Score: 0.11380571338363622
+Title: ['note', 'multipli', 'boolean', 'matric']
+
+Doc ID: 275
+Cosine Score: 0.10921885319124161
+Title: ['dynam', 'storag', 'alloc', 'inform', 'retriev', 'system']
+
+Doc ID: 2340
+Cosine Score: 0.10799660998112237
+Title: ['boolean', 'matrix', 'method', 'comput', 'linear', 'preced', 'function']
+
+Doc ID: 678
+Cosine Score: 0.10675892294308781
+Title: ['optim', 'bit-tim', 'comput', 'simul']
+
+Doc ID: 634
+Cosine Score: 0.105255241439077
+Title: ['manipul', 'tree', 'inform', 'retriev', '*']
+
+Doc ID: 3012
+Cosine Score: 0.10240984482958176
+Title: ['interact', 'inform', 'storag', 'retriev', 'system', 'medic', 'research']
+
+
+Comparison Doc: 1236
+
+Doc ID: 2307
+Cosine Score: 0.3419732369593354
+Title: ['dynam', 'document', 'process']
+
+Doc ID: 1699
+Cosine Score: 0.31053557372066637
+Title: ['experiment', 'evalu', 'inform', 'retriev', 'teletypewrit']
+
+Doc ID: 2711
+Cosine Score: 0.2839724874227233
+Title: ['vector', 'space', 'model', 'automat', 'index']
+
+Doc ID: 2575
+Cosine Score: 0.24662629957065965
+Title: ['best-match', 'problem', 'document', 'retriev']
+
+Doc ID: 1681
+Cosine Score: 0.24645115918758048
+Title: ['easi', 'english', ',', 'languag', 'inform', 'retriev', 'remot', 'typewrit', 'consol']
+
+Doc ID: 2082
+Cosine Score: 0.24102584283570405
+Title: ['syntax-direct', 'document', 'pl', '360']
+
+Doc ID: 1457
+Cosine Score: 0.23299073003515308
+Title: ['data', 'manipul', 'program', 'problem', 'automat', 'inform', 'retriev']
+
+Doc ID: 1032
+Cosine Score: 0.2244236985481247
+Title: ['theoret', 'consider', 'inform', 'retriev', 'system']
+
+Doc ID: 2990
+Cosine Score: 0.22400490982487134
+Title: ['effect', 'inform', 'retriev', 'term', 'accuraci']
+
+Doc ID: 634
+Cosine Score: 0.21788346880291531
+Title: ['manipul', 'tree', 'inform', 'retriev', '*']
+
+Doc ID: 1935
+Cosine Score: 0.21256851582863404
+Title: ['random', 'binari', 'search', 'techniqu']
+
+Doc ID: 3134
+Cosine Score: 0.2028092800740432
+Title: ['normal', 'multipl', 'tabl', 'inform', 'storag', 'retriev']
+
+Doc ID: 2293
+Cosine Score: 0.20068659095972935
+Title: ['comment', 'averag', 'binari', 'search', 'length']
+
+Doc ID: 1271
+Cosine Score: 0.19777621432385692
+Title: ['secondari', 'key', 'retriev', 'ibm', '7090-1301', 'system']
+
+Doc ID: 2882
+Cosine Score: 0.18224103731355418
+Title: ['stochast', 'evalu', 'model', 'databas', 'organ', 'data', 'retriev', 'system']
+
+Doc ID: 1937
+Cosine Score: 0.17400460030988774
+Title: ['coda', ':', 'data', 'display', 'system']
+
+Doc ID: 891
+Cosine Score: 0.17306749302796368
+Title: ['everyman', "'s", 'inform', 'retriev', 'system']
+
+Doc ID: 2288
+Cosine Score: 0.17090899015994276
+Title: ['organ', ':', 'consecut', 'retriev', 'properti']
+
+Doc ID: 2157
+Cosine Score: 0.16862571356852402
+Title: ['averag', 'binari', 'search', 'length', 'dens', 'order', 'list']
+
+Doc ID: 1680
+Cosine Score: 0.1646653818858923
+Title: ['general-purpos', 'display', 'process', 'tutori', 'system']
+
+
+Comparison Doc: 2740
+
+Doc ID: 1749
+Cosine Score: 0.3052814116202652
+Title: ['structur', '``', "''", '-multiprogram', 'system']
+
+Doc ID: 2597
+Cosine Score: 0.28256517449373925
+Title: ['monitor', ':', 'oper', 'system', 'structur', 'concept']
+
+Doc ID: 3043
+Cosine Score: 0.2603926442790563
+Title: ['distribut', 'process', ':', 'concurr', 'program', 'concept']
+
+Doc ID: 2379
+Cosine Score: 0.2378543580640143
+Title: ['design', 'venus', 'oper', 'system']
+
+Doc ID: 2080
+Cosine Score: 0.21665308422863838
+Title: ['nucleus', 'multiprogram', 'system']
+
+Doc ID: 2618
+Cosine Score: 0.21381797330482152
+Title: ['solut', 'dijkstra', "'s", 'concurr', 'program', 'problem']
+
+Doc ID: 2376
+Cosine Score: 0.1952518645397718
+Title: ['synchron', 'communic', 'process']
+
+Doc ID: 2280
+Cosine Score: 0.19396014458093244
+Title: ['comment', 'deadlock', 'prevent', 'method']
+
+Doc ID: 2700
+Cosine Score: 0.19065119856736282
+Title: ['reduct', ':', 'method', 'prove', 'properti', 'parallel', 'program']
+
+Doc ID: 2500
+Cosine Score: 0.18513646172469045
+Title: ['practic', 'approach', 'manag', 'resourc', 'avoid', 'deadlock']
+
+Doc ID: 2320
+Cosine Score: 0.18417486867635843
+Title: ['structur', 'multiprogram']
+
+Doc ID: 2920
+Cosine Score: 0.18339007475072358
+Title: ['game', 'interpret', 'deadlock', 'avoid', 'problem']
+
+Doc ID: 2866
+Cosine Score: 0.1798567765423768
+Title: ['prove', 'monitor']
+
+Doc ID: 2482
+Cosine Score: 0.17754971278142018
+Title: ['mix', 'solut', 'deadlock', 'problem']
+
+Doc ID: 2738
+Cosine Score: 0.17221421701984757
+Title: ['concept', 'transpar', 'design', 'hierarch', 'structur', 'system']
+
+Doc ID: 2319
+Cosine Score: 0.16984935711043078
+Title: ['oper', 'system', 'perform']
+
+Doc ID: 2228
+Cosine Score: 0.16644433825703014
+Title: ['comment', 'prevent', 'system', 'deadlock']
+
+Doc ID: 2777
+Cosine Score: 0.16516628656413326
+Title: ['solut', 'cigarett', 'smoker', "'s", 'problem', '(', 'condit', 'statement', ')']
+
+Doc ID: 2311
+Cosine Score: 0.15863053778893024
+Title: ['generat', 'perspect', 'inform', 'system', 'develop']
+
+Doc ID: 1828
+Cosine Score: 0.15651703040655124
+Title: ['synchron', 'parallel-access', 'data', 'base']
+
+

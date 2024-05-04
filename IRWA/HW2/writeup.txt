@@ -1,0 +1,17 @@
+The highest performing permutations involved stemming and removing stopwords
+while using tf-idf to measure frequencies. These results are not unexpected
+due to how the former two essentially removes "noise" in the text and the 
+latter takes a more complex and nuanced approach to evalulating frequency. 
+Across all similarity measures, using equal term weights produced the most 
+consistently high metrics. In some cases, the other term weights performed 
+better but only in a few categories each time, hence why equal weighting 
+should be used more generally. 
+
+Write-Up Question 1:
+See attached writeup1.txt. First half is without stemming while the second half is with stemming. 
+
+Write-Up Question 2:
+See attached writeup2.txt. First half is without stemming while the second half is with stemming. 
+
+Write-Up Question 3: 
+See attached writeup3.txt. First half is without stemming while the second half is with stemming. 

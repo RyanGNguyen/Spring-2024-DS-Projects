@@ -1,0 +1,574 @@
+STEMMING: False
+Query: doc_id: 6
+  author: []
+  title: []
+  keyword: []
+  abstract: ['interested', 'articles', 'robotics', ',', 'motion', 'planning', 'geometric', 'combinatorial', 'aspects', '.', 'interested', 'dynamics', 'arm', 'motion', '.']
+Doc ID: 2826
+Cosine Score: 0.11597419198437285
+Title: ['interactive', 'skeleton', 'techniques', 'enhancing', 'motion', 'dynamics', 'key', 'frame', 'animation']
+
+*****
+Doc ID: 1543
+Cosine Score: 0.10568460771677793
+Title: ['computer', 'formulation', 'equations', 'motion', 'tensor', 'notation']
+*****
+
+*****
+Doc ID: 2828
+Cosine Score: 0.10171789737214335
+Title: ['hierarchical', 'geometric', 'models', 'visible', 'surface', 'algorithms']
+*****
+
+Doc ID: 242
+Cosine Score: 0.08193913702658163
+Title: ['notes', 'geometric', 'weighted', 'check', 'digit', 'verification']
+
+Doc ID: 3035
+Cosine Score: 0.07763271648050661
+Title: ['strategic', 'planning', 'methodology', 'computing', 'effort', 'higher', 'education', ':', 'empirical', 'evaluation']
+
+Doc ID: 2230
+Cosine Score: 0.07520119215562335
+Title: ['language', 'treating', 'geometric', 'patterns', 'two-dimensional', 'space']
+
+Doc ID: 1009
+Cosine Score: 0.06702540846137278
+Title: ['solution', 'combinatorial', 'problems', 'generating', 'functions', 'variable-field', 'computer']
+
+Doc ID: 2753
+Cosine Score: 0.06635871826170361
+Title: ['heuristic', 'problem', 'solving', 'design', 'system', 'equipment', 'furniture', 'layouts']
+
+Doc ID: 2671
+Cosine Score: 0.0657093468721373
+Title: ['note', 'combinatorial', 'problem', 'burnett', 'coffman']
+
+Doc ID: 2389
+Cosine Score: 0.065410617635577
+Title: ['preliminary', 'report', 'system', 'general', 'space', 'planning']
+
+Doc ID: 1014
+Cosine Score: 0.06395072690966999
+Title: ['machine', 'controls', 'analysis', 'variance']
+
+Doc ID: 492
+Cosine Score: 0.0639452155079579
+Title: ['analysis', 'addressing', 'method']
+
+Doc ID: 435
+Cosine Score: 0.06314115318210393
+Title: ['decision', 'matrix', 'basis', 'simple', 'data', 'input', 'routine']
+
+Doc ID: 2721
+Cosine Score: 0.060428129695753584
+Title: ['digital', 'simulation', 'river', 'plankton', 'population', 'dynamics']
+
+*****
+Doc ID: 2078
+Cosine Score: 0.05869825197898898
+Title: ['representations', 'space', 'planning']
+*****
+
+Doc ID: 695
+Cosine Score: 0.0567256221091342
+Title: ['disk', 'stretch']
+
+Doc ID: 2873
+Cosine Score: 0.056007699401665605
+Title: ['lg', ':', 'language', 'analytic', 'geometry']
+
+Doc ID: 1186
+Cosine Score: 0.053281826179717
+Title: ['recursive', 'solution', 'class', 'combinatorial', 'problems', ':']
+
+Doc ID: 1867
+Cosine Score: 0.053190402405065375
+Title: ['expected', 'lengths', 'sequences', 'generated', 'sorting', 'replacement', 'selecting']
+
+Doc ID: 2176
+Cosine Score: 0.05295900312811895
+Title: ['buffer', 'allocation', 'merge-sorting']
+
+
+Query: doc_id: 9
+  author: []
+  title: []
+  keyword: []
+  abstract: ['security', 'considerations', 'local', 'networks', ',', 'network', 'operating', 'systems', ',', 'distributed', 'systems', '.']
+*****
+Doc ID: 2372
+Cosine Score: 0.30816882717817257
+Title: ['implementation', 'security', 'measures', 'information', 'systems']
+*****
+
+*****
+Doc ID: 3068
+Cosine Score: 0.3052857135830385
+Title: ['model', 'verification', 'data', 'security', 'operating', 'systems']
+*****
+
+Doc ID: 1685
+Cosine Score: 0.28853626604811355
+Title: ['gan', ',', 'system', 'generating', 'analyzing', 'activity', 'networks']
+
+Doc ID: 2949
+Cosine Score: 0.27463421358442636
+Title: ['correctness', 'proof', 'topology', 'information', 'main', 'tenance', 'protocol', 'distributed', 'computer', 'network']
+
+Doc ID: 2776
+Cosine Score: 0.2512227051523269
+Title: ['computer', 'networks', 'higher', 'education', ':', 'socio-economic-political', 'factors']
+
+Doc ID: 3174
+Cosine Score: 0.23167219399677155
+Title: ['password', 'security', ':', 'case', 'history']
+
+Doc ID: 2849
+Cosine Score: 0.2216370300997314
+Title: ['ethernet', ':', 'distributed', 'packet', 'switching', 'local', 'computer', 'networks']
+
+Doc ID: 3137
+Cosine Score: 0.20854383083602293
+Title: ['methodology', 'design', 'distributed', 'information', 'systems']
+
+Doc ID: 2578
+Cosine Score: 0.2075234362547649
+Title: ['self-stabilizing', 'systems', 'spite', 'distributed', 'control']
+
+Doc ID: 2969
+Cosine Score: 0.20724526282907588
+Title: ['optimal', 'program', 'data', 'locations', 'computer', 'networks']
+
+*****
+Doc ID: 3158
+Cosine Score: 0.20491464970192932
+Title: ['secure', 'personal', 'computing', 'insecure', 'network']
+*****
+
+Doc ID: 3082
+Cosine Score: 0.2027091355562507
+Title: ['time', ',', 'clocks', ',', 'ordering', 'events', 'distributed', 'system']
+
+Doc ID: 2371
+Cosine Score: 0.20221382997788165
+Title: ['system', 'interprocess', 'communication', 'resource', 'sharing', 'computer', 'network']
+
+Doc ID: 3148
+Cosine Score: 0.20062935018494274
+Title: ['high', 'level', 'programming', 'distributed', 'computing']
+
+Doc ID: 1461
+Cosine Score: 0.19947946856324472
+Title: ['discussion', 'summary', 'operating', 'systems']
+
+Doc ID: 2614
+Cosine Score: 0.18729304593033358
+Title: ['arrow', 'precedence', 'network', 'transformation', '[', ']', '(', 'algorithm', 'a481', ')']
+
+Doc ID: 2951
+Cosine Score: 0.18655376755195843
+Title: ['dynamic', 'response', 'time', 'prediction', 'computer', 'networks']
+
+*****
+Doc ID: 2870
+Cosine Score: 0.18617695036778786
+Title: ['lattice', 'model', 'secure', 'information', 'flow']
+*****
+
+Doc ID: 2197
+Cosine Score: 0.18059614116189363
+Title: ['merit', 'regional', 'computing', 'networks']
+
+Doc ID: 1695
+Cosine Score: 0.1779576896111959
+Title: ['plexus-an', 'on-line', 'system', 'modeling', 'neural', 'networks']
+
+
+Query: doc_id: 22
+  author: []
+  title: []
+  keyword: []
+  abstract: ['interested', 'hidden-line', 'hidden-surface', 'algorithms', 'cylinders', ',', 'toroids', ',', 'spheres', ',', 'cones', '.', 'specialized', 'topic', 'computer', 'graphics', '.']
+Doc ID: 266
+Cosine Score: 0.15159100187262198
+Title: ['fitting', 'spheres', 'method', 'squares']
+
+Doc ID: 87
+Cosine Score: 0.12240796603604095
+Title: ['note', 'method', 'generating', 'points', 'uniformly', 'n-dimensional', 'spheres']
+
+*****
+Doc ID: 2473
+Cosine Score: 0.11545536361823357
+Title: ['hidden-line', 'plotting', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2384
+Cosine Score: 0.11477371146829168
+Title: ['hidden-line', 'plotting', 'program', '[', 'j6', ']', '(', 'algorithm', 'a420', ')']
+*****
+
+*****
+Doc ID: 2441
+Cosine Score: 0.10144632454480645
+Title: ['hidden-line', 'plotting', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2638
+Cosine Score: 0.09834949835747844
+Title: ['hidden-line', 'plotting', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2564
+Cosine Score: 0.09822155354637767
+Title: ['hidden-line', 'plotting', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2637
+Cosine Score: 0.09822155354637767
+Title: ['hidden-line', 'plotting', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+Doc ID: 2913
+Cosine Score: 0.0759065504642929
+Title: ['aliasing', 'problem', 'computer-generated', 'shaded', 'images']
+
+Doc ID: 2367
+Cosine Score: 0.06347760444179615
+Title: ['computers', 'society', ':', 'proposed', 'course', 'computer', 'scientists']
+
+Doc ID: 2188
+Cosine Score: 0.05884205366106897
+Title: ['approach', 'optimum', 'design', 'computer', 'graphics', 'systems']
+
+Doc ID: 2845
+Cosine Score: 0.05050062725640663
+Title: ['buddy', 'system', 'variation', 'disk', 'storage', 'allocation']
+
+Doc ID: 2924
+Cosine Score: 0.049489443732111504
+Title: ['interactive', 'computer', 'graphics', 'approach', 'surface', 'representation']
+
+Doc ID: 2674
+Cosine Score: 0.04790988530937713
+Title: ['scan', 'conversion', 'algorithms', 'cell', 'organized', 'raster', 'display']
+
+Doc ID: 1978
+Cosine Score: 0.0427696689699974
+Title: ['interactive', 'graphics', 'solve', 'numerical', 'problems']
+
+Doc ID: 2341
+Cosine Score: 0.04254601845794221
+Title: ['blocks-a', 'data', 'type', 'snobol4']
+
+*****
+Doc ID: 2692
+Cosine Score: 0.0423761496773202
+Title: ['reentrant', 'polygon', 'clipping']
+*****
+
+Doc ID: 1014
+Cosine Score: 0.03909736149163403
+Title: ['machine', 'controls', 'analysis', 'variance']
+
+Doc ID: 2708
+Cosine Score: 0.03856342254786561
+Title: ['practical', 'syntactic', 'error', 'recovery']
+
+Doc ID: 2809
+Cosine Score: 0.03575435541886919
+Title: ['positivity', 'norms']
+
+
+STEMMING: True
+Query: doc_id: 6
+  author: []
+  title: []
+  keyword: []
+  abstract: ['interest', 'articl', 'robot', ',', 'motion', 'plan', 'geometr', 'combinatori', 'aspect', '.', 'interest', 'dynam', 'arm', 'motion', '.']
+*****
+Doc ID: 1543
+Cosine Score: 0.16245392621741458
+Title: ['comput', 'formul', 'equat', 'motion', 'tensor', 'notat']
+*****
+
+Doc ID: 136
+Cosine Score: 0.1615111641072988
+Title: ['note', 'calcul', 'interest']
+
+*****
+Doc ID: 2078
+Cosine Score: 0.15047997583295783
+Title: ['represent', 'space', 'plan']
+*****
+
+*****
+Doc ID: 2828
+Cosine Score: 0.14729932087163514
+Title: ['hierarch', 'geometr', 'model', 'visibl', 'surfac', 'algorithm']
+*****
+
+Doc ID: 356
+Cosine Score: 0.1378922686381132
+Title: ['interest', '(', 'algorithm', '45', ')']
+
+Doc ID: 740
+Cosine Score: 0.13723984661159935
+Title: ['interest', '(', 'algorithm', '45', ')']
+
+Doc ID: 2826
+Cosine Score: 0.1236473504045699
+Title: ['interact', 'skeleton', 'techniqu', 'enhanc', 'motion', 'dynam', 'key', 'frame', 'anim']
+
+Doc ID: 1009
+Cosine Score: 0.11925187088305982
+Title: ['solut', 'combinatori', 'problem', 'generat', 'function', 'variable-field', 'comput']
+
+Doc ID: 242
+Cosine Score: 0.11680952548300523
+Title: ['note', 'geometr', 'weight', 'check', 'digit', 'verif']
+
+Doc ID: 2671
+Cosine Score: 0.10570999108844828
+Title: ['note', 'combinatori', 'problem', 'burnett', 'coffman']
+
+Doc ID: 2230
+Cosine Score: 0.10566533723538617
+Title: ['languag', 'treat', 'geometr', 'pattern', 'two-dimension', 'space']
+
+Doc ID: 1517
+Cosine Score: 0.10400454408245573
+Title: ['method', 'analyz', 'data', 'comput', 'simul', 'experi']
+
+Doc ID: 3035
+Cosine Score: 0.10397091708269769
+Title: ['strateg', 'plan', 'methodolog', 'comput', 'effort', 'higher', 'educ', ':', 'empir', 'evalu']
+
+Doc ID: 1755
+Cosine Score: 0.09947095075987095
+Title: ['proceed', 'acm', 'symposium', 'oper', 'system', 'principl']
+
+Doc ID: 1186
+Cosine Score: 0.09249198436370545
+Title: ['recurs', 'solut', 'class', 'combinatori', 'problem', ':']
+
+Doc ID: 2389
+Cosine Score: 0.09004383339520694
+Title: ['preliminari', 'report', 'system', 'general', 'space', 'plan']
+
+Doc ID: 695
+Cosine Score: 0.08810623394241536
+Title: ['disk', 'stretch']
+
+Doc ID: 2753
+Cosine Score: 0.08684760031514033
+Title: ['heurist', 'problem', 'solv', 'design', 'system', 'equip', 'furnitur', 'layout']
+
+Doc ID: 2176
+Cosine Score: 0.08309476552521243
+Title: ['buffer', 'alloc', 'merge-sort']
+
+Doc ID: 1397
+Cosine Score: 0.08305855612280243
+Title: ['proceed', 'acm', 'symposium', 'symbol', 'algebra', 'manipul']
+
+
+Query: doc_id: 9
+  author: []
+  title: []
+  keyword: []
+  abstract: ['secur', 'consider', 'local', 'network', ',', 'network', 'oper', 'system', ',', 'distribut', 'system', '.']
+Doc ID: 1685
+Cosine Score: 0.4976823296596993
+Title: ['gan', ',', 'system', 'generat', 'analyz', 'activ', 'network']
+
+Doc ID: 2776
+Cosine Score: 0.40524637872654984
+Title: ['comput', 'network', 'higher', 'educ', ':', 'socio-economic-polit', 'factor']
+
+Doc ID: 2371
+Cosine Score: 0.37241890383752996
+Title: ['system', 'interprocess', 'communic', 'resourc', 'share', 'comput', 'network']
+
+*****
+Doc ID: 3158
+Cosine Score: 0.3723225149582012
+Title: ['secur', 'person', 'comput', 'insecur', 'network']
+*****
+
+Doc ID: 2949
+Cosine Score: 0.3618783893886103
+Title: ['correct', 'proof', 'topolog', 'inform', 'main', 'tenanc', 'protocol', 'distribut', 'comput', 'network']
+
+Doc ID: 2951
+Cosine Score: 0.35969881685747085
+Title: ['dynam', 'respons', 'time', 'predict', 'comput', 'network']
+
+Doc ID: 2197
+Cosine Score: 0.35239555911113213
+Title: ['merit', 'region', 'comput', 'network']
+
+*****
+Doc ID: 3068
+Cosine Score: 0.34164789596043943
+Title: ['model', 'verif', 'data', 'secur', 'oper', 'system']
+*****
+
+Doc ID: 1695
+Cosine Score: 0.3304031251961761
+Title: ['plexus-an', 'on-lin', 'system', 'model', 'neural', 'network']
+
+*****
+Doc ID: 2372
+Cosine Score: 0.31283359791044507
+Title: ['implement', 'secur', 'measur', 'inform', 'system']
+*****
+
+Doc ID: 1261
+Cosine Score: 0.3119912226801683
+Title: ['model', 'simul', 'digit', 'network']
+
+Doc ID: 2614
+Cosine Score: 0.3100342665699664
+Title: ['arrow', 'preced', 'network', 'transform', '[', ']', '(', 'algorithm', 'a481', ')']
+
+Doc ID: 2864
+Cosine Score: 0.3057704120001334
+Title: ['characterist', 'program', 'local']
+
+Doc ID: 2969
+Cosine Score: 0.304490987547581
+Title: ['optim', 'program', 'data', 'locat', 'comput', 'network']
+
+Doc ID: 2454
+Cosine Score: 0.2877828967499537
+Title: ['comput', 'algorithm', 'close', 'queue', 'network', 'exponenti', 'server']
+
+*****
+Doc ID: 2870
+Cosine Score: 0.28695013753212073
+Title: ['lattic', 'model', 'secur', 'inform', 'flow']
+*****
+
+*****
+Doc ID: 3111
+Cosine Score: 0.27197177274392265
+Title: ['secur', 'communic', 'insecur', 'channel']
+*****
+
+Doc ID: 1611
+Cosine Score: 0.25323438573671925
+Title: ['schedul', 'project', 'network']
+
+Doc ID: 2515
+Cosine Score: 0.2529423571092247
+Title: ['minim', 'event-nod', 'network', 'project', 'preced', 'relat']
+
+Doc ID: 3174
+Cosine Score: 0.24846163002685073
+Title: ['password', 'secur', ':', 'case', 'histori']
+
+
+Query: doc_id: 22
+  author: []
+  title: []
+  keyword: []
+  abstract: ['interest', 'hidden-lin', 'hidden-surfac', 'algorithm', 'cylind', ',', 'toroid', ',', 'sphere', ',', 'cone', '.', 'special', 'topic', 'comput', 'graphic', '.']
+Doc ID: 266
+Cosine Score: 0.17991968667960767
+Title: ['fit', 'sphere', 'method', 'squar']
+
+*****
+Doc ID: 2473
+Cosine Score: 0.17446930383056253
+Title: ['hidden-lin', 'plot', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2384
+Cosine Score: 0.17349856453005866
+Title: ['hidden-lin', 'plot', 'program', '[', 'j6', ']', '(', 'algorithm', 'a420', ')']
+*****
+
+*****
+Doc ID: 2441
+Cosine Score: 0.16228584304159793
+Title: ['hidden-lin', 'plot', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2638
+Cosine Score: 0.15719762346654687
+Title: ['hidden-lin', 'plot', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2564
+Cosine Score: 0.1569876829365607
+Title: ['hidden-lin', 'plot', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+*****
+Doc ID: 2637
+Cosine Score: 0.1569876829365607
+Title: ['hidden-lin', 'plot', 'program', '(', 'algorithm', 'r420', ')']
+*****
+
+Doc ID: 87
+Cosine Score: 0.14874181588401425
+Title: ['note', 'method', 'generat', 'point', 'uniform', 'n-dimension', 'sphere']
+
+Doc ID: 122
+Cosine Score: 0.1368824473863472
+Title: ['squar', 'fit', 'great', 'circl', 'point', 'sphere']
+
+Doc ID: 3049
+Cosine Score: 0.13035485793555146
+Title: ['simpli', 'extend', 'modifi', 'batch', 'environ', 'graphic', 'system', '(', 'sembeg', ')']
+
+Doc ID: 52
+Cosine Score: 0.12779985033942826
+Title: ['effici', 'method', 'generat', 'uniform', 'distribut', 'point', 'surfac', 'n-dimension', 'sphere', '(', 'corrigendum', ')']
+
+Doc ID: 88
+Cosine Score: 0.11941265085658649
+Title: ['effici', 'method', 'generat', 'uniform', 'distribut', 'point', 'surfac', 'n-dimension', 'sphere']
+
+Doc ID: 1767
+Cosine Score: 0.11824156819138738
+Title: ['general', 'purpos', 'graphic', 'languag']
+
+Doc ID: 1467
+Cosine Score: 0.11799165924067155
+Title: ['graphic', 'servicesystem', 'variabl', 'syntax']
+
+Doc ID: 2913
+Cosine Score: 0.1135803018374649
+Title: ['alias', 'problem', 'computer-gener', 'shade', 'imag']
+
+Doc ID: 1829
+Cosine Score: 0.10569824992010605
+Title: ['interact', 'graphic', 'display', 'monitor', 'batch-process', 'environ', 'remot', 'entri']
+
+Doc ID: 2105
+Cosine Score: 0.1023235905431085
+Title: ['interact', 'comput', 'system', 'graphic', 'flowchart', 'input']
+
+Doc ID: 1466
+Cosine Score: 0.09947147065535288
+Title: ['discuss', 'summari', 'graphic', 'languag']
+
+Doc ID: 1755
+Cosine Score: 0.09251725916914313
+Title: ['proceed', 'acm', 'symposium', 'oper', 'system', 'principl']
+
+Doc ID: 146
+Cosine Score: 0.08925761545068464
+Title: ['comput', 'engin', 'classroom', 'instruct']
+
+
