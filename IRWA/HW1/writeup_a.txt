@@ -1,0 +1,26 @@
+My approach was simple. First, I considered whether to use different classifiers
+based off of other models available on the SciKit-Learn documentation. From my research,
+the most common other models on SciKit-Learn for text classification that supports 
+multiple label output for a single target was Logistic Regression, K Neighbors Classifier,
+Multinomial Naive Bayes, LinearSVC & SVC, Random Forest Classifier, Gradient Boosting Classifier,
+& MLP Classifier. I tested all of these using my final feature list shown below while using
+the standard DecisionTreeClassifier as a baseline, and Random Forest Classifier performed 
+the best.
+
+Next, I chose my features. First, I ran the model using only left_reliable, right_reliable,
+and num_spaces as features as a baseline. Then, I progressively added features, starting 
+with the features already in the template code first, and accepted/rejected them based on 
+whether I saw significant (>0.02) improvements to the precision, recall, & f1-scores of 
+either NEOS or EOS as well as the overall accuracy. I initially focused on the words 
+immediately before and after the period (e.g. length, whether they were in the given word 
+lists, etc.), and then I expanded to all the surrounding words and whether they were 
+alphabetical or numerical. Most surprising to me was the fact that most of the given word 
+lists with the exception of titles and unlikely proper nouns did little to improve the 
+metrics. On the other hand, simply checking whether the surrounding words were alphabetical
+or numerical did the most to improve my model's accuracy despite being very simple features. 
+The culmination of these features led to a satisfactory performance on the training data. 
+On the most recent run, the accuracy (rounded to 2 decimal places) was 1.00. Similarly, the 
+precision, recall, & f1-scores for EOS were all 1.00. In contrast, the precision, recall, &
+f1-score for NEOS was 0.97, 0.98, & 0.97 respectively. After manually going over the output, no
+trends were observed that could've been used to improve the model further without compromising 
+other common cases.   
